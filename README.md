@@ -19,7 +19,7 @@ My focus is on creating solutions that **reduce operational costs**, **improve u
 **Live Demo:** [dokterian-app.vercel.app](https://dokterian-angular-deployed-57hs0xst4-igornlemos-projects.vercel.app/dashboard) 
 [login: admin | password: password123]
 
-**Backend API:** [dokterian-fastapi.railway.app](dokterian-fastapi-production.up.railway.app)
+**Backend API:** [dokterian-fastapi.railway.app](https://dokterian-fastapi-production.up.railway.app/)
 
 ---
 
