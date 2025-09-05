@@ -16,8 +16,10 @@ My focus is on creating solutions that **reduce operational costs**, **improve u
 ## 🏥 Current Focus
 **Dokterian** – a medical management platform that **reduces appointment booking time by 80%** and **eliminates scheduling conflicts** for medical practices.  
 
-**Live Demo:** [dokterian-app.vercel.app](https://dokterian-app.vercel.app)  
-**Backend API:** [dokterian-api.railway.app](https://dokterian-api.railway.app)
+**Live Demo:** [dokterian-app.vercel.app](https://dokterian-angular-deployed-57hs0xst4-igornlemos-projects.vercel.app/dashboard) 
+[login: admin | password: password123]
+
+**Backend API:** [dokterian-fastapi.railway.app](dokterian-fastapi-production.up.railway.app)
 
 ---
 
@@ -28,8 +30,7 @@ My focus is on creating solutions that **reduce operational costs**, **improve u
 - **Solution:** Automated booking system with conflict prevention  
 - **Impact:** Streamlines appointment scheduling, prevents conflicts, and saves staff time.
 - **Tech:** FastAPI, Angular, PostgreSQL, JWT Auth (to be added)  
-- **Repos:**  
-  - [dokterian-angular-deployed](https://github.com/igornlemos/dokterian-angular-deployed)  
+- **Repos:**    
   - [dokterian-fastapi](https://github.com/igornlemos/dokterian-fastapi)  
   - [dokterian-angular](https://github.com/igornlemos/dokterian-angular)
 
