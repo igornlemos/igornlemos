@@ -53,9 +53,8 @@ const skills = {
   deployment: ["Docker", "Railway", "Vercel", "CI/CD Pipelines"],
   mindset: ["Business-First Development", "MVP Creation", "Iterative Improvement"]
 }
-```
 
----
+```
 
 ## 📈 Development Approach
 
@@ -75,5 +74,5 @@ const skills = {
 
 > **"I don't just write code — I solve business problems with code."**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=igornlemos&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=igornlemos&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=igornlemos&show_icons=true&theme=radical&v=1)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=igornlemos&layout=compact&theme=radical&v=1)
